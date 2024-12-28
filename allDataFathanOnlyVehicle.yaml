@@ -1,0 +1,6 @@
+train: D:/Random_Projects/Tubes Viskom/preprocessed_data_Fathan/images/train
+val: D:/Random_Projects/Tubes Viskom/preprocessed_data_Fathan/images/val
+test: D:/Random_Projects/Tubes Viskom/preprocessed_data_Fathan/images/test
+
+nc: 1
+names: ['vehicle']

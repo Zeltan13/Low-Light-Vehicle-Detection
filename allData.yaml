@@ -1,0 +1,6 @@
+train: D:/Random_Projects/Tubes Viskom/preprocessed_data/images/train
+val: D:/Random_Projects/Tubes Viskom/preprocessed_data/images/val
+test: D:/Random_Projects/Tubes Viskom/preprocessed_data/images/test
+
+nc: 2
+names: ['vehicle', 'light_instance']

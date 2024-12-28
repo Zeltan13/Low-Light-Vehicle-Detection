@@ -1,0 +1,7 @@
+#data.yaml for YOLOv8
+train: D:/Random_Projects/Tubes Viskom/preprocessed_data10k/images/train  #path to training images
+val: D:/Random_Projects/Tubes Viskom/preprocessed_data10k/images/val      #path to validation images
+test: D:/Random_Projects/Tubes Viskom/preprocessed_data10k/images/test    #path to testing images
+
+nc: 2  #Number of classes
+names: ['vehicle', 'light_instance']  #Class names
